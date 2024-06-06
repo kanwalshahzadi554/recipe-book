@@ -13,4 +13,3 @@ some nice recipes.
 - [sides](sides)
 - [desserts](desserts)
 - [Mocktail](Mocktail)
-- [Coffee](coffee)
